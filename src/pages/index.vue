@@ -1,0 +1,4 @@
+<template>
+  <h1>Home</h1>
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus sequi voluptates iusto voluptas quibusdam porro dolores repellendus labore! Consectetur voluptates repellendus totam quasi, ipsa accusantium facilis illum ullam tempore ducimus minus repellat natus dicta inventore quod nulla accusamus incidunt? Illum rerum maiores ratione dolorem minima accusantium pariatur aut beatae adipisci quos fuga eveniet ipsam quod optio quis, dolorum voluptatibus sunt ab rem. Nam optio ut sint veritatis soluta sed facere reiciendis quasi ipsa, voluptas distinctio maxime eaque porro commodi ipsum perspiciatis illo. Eligendi, reprehenderit deleniti quod assumenda odio incidunt obcaecati dolores unde, totam laboriosam placeat eaque, at modi ipsum velit.</p>
+</template>
